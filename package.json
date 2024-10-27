@@ -1,13 +1,13 @@
 {
-  "name": "md-to-cv-generator",
+  "name": "cv",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/m0rtyn/cv.git",
   "author": "Martyn <zogacc@gmail.com>",
   "license": "MIT",
+  "module": "src/main.js",
+  "type": "module",
   "scripts": {
-    "start": "node src/main.js",
-    "dev": "nodemon --ext \"md, css, js\" src/main.js"
+    "start": "md-to-cv-generator pdf src/FE_EN.md"
   },
   "devDependencies": {
     "@types/node": "^20.4.5",
@@ -29,6 +29,7 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
+    "md-to-cv-generator": "^1.0.5",
     "puppeteer": "^23.6.0"
   }
 }
