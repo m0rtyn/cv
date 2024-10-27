@@ -3,7 +3,7 @@
 |                      |                                  |                      |  
 | -------------------- | -------------------------------- | -------------------- |  
 | **Experience**:  8 years | **Language**:  RU / ENG (B2) | **Location**: Novi Sad(Serbia) |
-| **Telegram**: [t.me/m0rtyn][telega] | **Email**: [zogacc@gmail.com][email] | [**LinkedIn**.com/in/m0rtyn][li] |
+| **Email**: [zogacc@gmail.com][email] | [**Telegram**.me/m0rtyn][telega] | [**LinkedIn**.com/in/m0rtyn][li] |
 
 > 👋 Hey there! I’m a seasoned Frontend Developer specializing in `React` and `TypeScript` with automation experience in `Node.js`. I excel in agile methodologies and fostering team collaboration.
 
@@ -94,14 +94,15 @@
   <!-- - **Stack**: Firebase, Google Cloud Platform, React, Redux Toolkit, PWA, GH Actions -->
 - [**Marathons TG bot**](http://bit.ly/hammers-of-time)(bit.ly/hammers-of-time): Bot for collective learning marathons — [Github](https://github.com/m0rtyn/marathons-bot)
   <!-- - **Stack**: Node.js, Telegraf.js, Next.js, Google Cloud Platform, Google APIs -->
+- **Markdown to CV generator**: the way to get this CV from plain markdown — [Github](https://github.com/m0rtyn/cv-to-md-generator)
 
 
-|                      |                                  |                      |  
-| -------------------- | -------------------------------- | -------------------- |  
-| **Telegram**: [t.me/m0rtyn][telega] <br><br> **Email**: [zogacc@gmail.com][email] |  [**GitHub**.com/m0rtyn][gh] <br><br> [**LeetCode**.com/u/m0rtyn][lc] |  [**LinkedIn**.com/in/m0rtyn][li]  <br><br> [Link to this CV][cv] |
+|                      |                                |                    |  
+| -------------------- | ------------------------------ | ------------------ |  
+| **Email**: [zogacc@gmail.com][email] <br><br> [**Telegram**.me/m0rtyn][telega] |  [**GitHub**.com/m0rtyn][gh] <br><br> [**LeetCode**.com/u/m0rtyn][lc] |  [**LinkedIn**.com/in/m0rtyn][li]  <br><br> [Link to this CV][cv] |
 
 
-[telega]: https://t.me/m0rtyn
+[telega]: https://t.me/m0rtyn "m0rtyn's telegram"
 [email]: mailto:zogacc@gmail.com
 [gh]: https://github.com/m0rtyn
 [lc]: https://leetcode.com/u/m0rtyn
