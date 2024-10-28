@@ -7,29 +7,10 @@
   "module": "src/main.js",
   "type": "module",
   "scripts": {
-    "start": "md-to-cv-generator pdf src/FE_EN.md"
-  },
-  "devDependencies": {
-    "@types/node": "^20.4.5",
-    "cheerio": "^0.20.0",
-    "emoji-images": "^0.1.1",
-    "gray-matter": "^4.0.2",
-    "highlight.js": "^9.18.1",
-    "markdown-it": "^10.0.0",
-    "markdown-it-checkbox": "^1.1.0",
-    "markdown-it-container": "^2.0.0",
-    "markdown-it-emoji": "^1.4.0",
-    "markdown-it-include": "^1.1.0",
-    "markdown-it-named-headers": "0.0.4",
-    "markdown-it-plantuml": "^1.4.1",
-    "mkdirp": "^1.0.3",
-    "mustache": "^4.0.1",
-    "nodemon": "^3.1.7",
-    "puppeteer-core": "^23.6.0",
-    "rimraf": "^3.0.2"
+    "start": "md-to-cv-generator",
+    "watch": "md-to-cv-generator --watch"
   },
   "dependencies": {
-    "md-to-cv-generator": "^1.0.5",
-    "puppeteer": "^23.6.0"
+    "md-to-cv-generator": "^1.0.8"
   }
 }
