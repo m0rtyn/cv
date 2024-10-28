@@ -17,7 +17,8 @@
 
   *Gamified crypto-trading platform #startup #web3 | Remote, full-time*
 
-  **Project**: <xyro.io>
+  **Project**: [xyro.io](https://xyro.io/up-down)
+
   **Stack**: React, TypeScript, Apollo Client (GraphQL), RadixUI, Trading View Charts, ThirdWeb/Wagmi, FSD
 
   - Implemented a killer feature: a gaming price chart for cryptocurrencies with real-time updates and high FPS. Documented the code and screen recordings to help the team understand the magic happening there. [Demo ▶️](https://youtu.be/4XyXVeOLq8Q)(https://bit.ly/cv-demo-1)
@@ -31,7 +32,7 @@
 
   *European outsource company | Remote, contractor*
 
-  **Projects**: service for American clinic patients (<next-health.com>), website with statistics of Lithuanian companies (<statometras.lt>)
+  **Projects**: service for American clinic patients ([next-health.com](https://next-health.com)), website with statistics of Lithuanian companies ([statometras.lt](https://statometras.lt))
 
   **Stack**: Nuxt.js, Next.js, React, Vue, Charts.js, GraphQL
 
