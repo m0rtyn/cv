@@ -2,23 +2,22 @@
 
 |                      |                                  |                      |  
 | -------------------- | -------------------------------- | -------------------- |  
-| **Experience**:  8 years | **Language**:  RU / ENG (B2) | **Location**: Novi Sad(Serbia) |
+| **Experience**:  8 years | **Language**:  RU / ENG (B2) | **Location**: Novi Sad S(Serbia) |
 | **Email**: [zogacc@gmail.com][email] | [**Telegram**.me/m0rtyn][telega] | [**LinkedIn**.com/in/m0rtyn][li] |
 
 > 👋 Hey there! I’m a seasoned Frontend Developer specializing in `React` and `TypeScript` with automation experience in `Node.js`. I excel in agile methodologies and fostering team collaboration.
 
 ## Technical Skills
 
--	**Languages**: JavaScript, TypeScript, Python
--	**Frameworks**: React, Next.js, Vue, Nuxt.js, Angular
--	**Tools**: Node.js, GraphQL, gRPC, Docker
+`JavaScript` `TypeScript` `CSS` `React` `Next.js` `Vue` `Nuxt.js` `Angular` `Redux Toolkit` `Apollo Client` `SCSS` `TradingView Charts` `D3.js` `ThirdWeb` `Styled components` `MaterialUI` `RadixUI` `Bootstrap` `Node.js` `Vite` `Webpack` `PostCSS` `Docker` `Python` `Jest` `Vitest`
 
 ## Experience
 
-- ### Lead Frontend Developer @ Xyro.io *Jan'23 — Sep'24*
+- ### Lead Frontend Developer @ Xyro *1 yr 9 mos (Jan'23 — Sep'24)*
 
-  *Remote, full-time | Startup, Web3, GamyFi, SocialFi*
+  *Gamified crypto-trading platform #startup #web3 | Remote, full-time*
 
+  **Project**: <xyro.io>
   **Stack**: React, TypeScript, Apollo Client (GraphQL), RadixUI, Trading View Charts, ThirdWeb/Wagmi, FSD
 
   - Implemented a killer feature: a gaming price chart for cryptocurrencies with real-time updates and high FPS. Documented the code and screen recordings to help the team understand the magic happening there. [Demo ▶️](https://youtu.be/4XyXVeOLq8Q)(https://bit.ly/cv-demo-1)
@@ -28,59 +27,55 @@
   - Ensured the consistency of the design system despite changes in the design team, pivots, and transition to a mobile audience
   - Increase team's DX by implementing AI tooling, unit testing, linting, code formatting and utilizing Telegram bots for easy PR reviews and task assignments.
 
-- ### Frontend Developer @ Vilantis.ai *Apr'22 — Dec'22*
+- ### Frontend Developer @ Vilantis.ai *8 mos (Apr'22 — Dec'22)*
 
-  *Remote, contractor, full-time | Outsource*
+  *European outsource company | Remote, contractor*
 
-  **Stack**: Nuxt.js, Next.js, Charts.js, GraphQL
+  **Projects**: service for American clinic patients (<next-health.com>), website with statistics of Lithuanian companies (<statometras.lt>)
 
-  <!-- **Projects**: service for American clinic patients, website with statistics of Lithuanian companies -->
+  **Stack**: Nuxt.js, Next.js, React, Vue, Charts.js, GraphQL
 
   - Developed complex booking forms for consultations and treatment appointments
   - Implemented strong typing through JSDoc and VSCode during a limited transition to TypeScript, resulting in a reduction of bugs by at least 15%
   - Accelerated development speed for the new backend API by implementing auto-generation of types, streamlining the integration process.
   - Upgraded an outdated project (JS/Vue2) for compatibility and maintainability
 
-- ### Lead Frontend Developer @ 12 Storeez *Aug'21 — Jan'22*
+- ### Frontend Developer @ 12 Storeez *1 yr 5 mos (Aug'21 — Jan'22)*
 
-  *Remote, full-time | Marketplace, internal services*
+  *Closing brand with online store | Remote, full-time*
 
-  **Stack**: Angular (13), Nx, gRPC, Material UI
+  **Project**: internal logistics service for managing order delivery across multiple countries
 
-  <!-- **Project**: internal logistics service for managing order delivery across multiple countries -->
+  **Stack**: Angular (13), Nx, Ngrx, RxJs, gRPC, Material UI
 
   - Developed a frontend for the internal logistics service from scratch
   - Conducted team retrospectives → made it easier to prevent burnout and acknowledge improvements
   - Improved the accuracy and speed of the team's poker planning (15 minutes instead of 30+)
-  - Initiated and conducted product update demos with stakeholders → product requirements were clarified before release
+  - Organized and conducted product update demos with stakeholders, which clarified requirements prior to release
   - Curated and updated the backlog for feature prioritization
 
-- ### Frontend Developer @ Semrush *Aug'19 — Jul'20*
+- ### Frontend Developer @ Semrush *1 yr (Aug'19 — Jul'20)*
 
-  *Office, full-time | SaaS, Internal services*
-
-  **Stack**: React, Redux, Typescript, D3.js 
+  *Leading online visibility management SaaS platform | Office, full-time*
 
   **Project**: internal service for setting goals in company units (similar to OKR)
+  
+  **Stack**: React, Redux, TypeScript, D3.js 
 
   - Developed an interactive organizational structure with a map of departments and teams (D3, React)
   - Optimized the sprint planning estimation approach and implemented it with an Agile coach
   <!-- - Contributed to the OSS library  [bkrem/react-d3-tree](https://bkrem.github.io/react-d3-tree/) -->
   <!-- - Implemented code review with collective code ownership -->
 
-- ### Markup Developer @ Noveo *Aug'17 — Dec'18*
+- ### Markup Developer @ Noveo *1 yr 4mos (Aug'17 — Dec'18)*
 
-  *Office, full-time | Outsource*
-
-  **Stack**: SCSS, Bootstrap, JSX
+  *Outsource company | Office, full-time*
 
   <!-- - Developed the interface for the game ["Go to IT"](https://store.steampowered.com/app/953060/Go_to_IT/)(bit.ly/go-to-it) (React) -->
 
-- ### Markup Developer @ Armaseti *Jul'16 — Aug'17*
+- ### Markup Developer @ Armaseti *1 yr 2 mos (Jul'16 — Aug'17)*
 
-  *Hybrid, full-time | Email marketing*
-
-  **Stack**: SCSS, Foundation UI for Email, RegExp
+  *Email marketing | Office, full-time*
 
 ## Rest activities
 
