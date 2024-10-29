@@ -8,3 +8,16 @@
     padding: 0.25em 0.5em;
   }
 }
+
+li > ul>li  {
+  list-style-type: square;
+
+  & li {
+    list-style-type: circle;
+  }
+}
+
+li > ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
