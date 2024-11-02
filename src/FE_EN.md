@@ -7,9 +7,7 @@
 
 > 👋 Hey there! I’m a seasoned Frontend Developer specializing in `React` and `TypeScript` with automation experience in `Node.js`. I excel in agile methodologies and fostering team collaboration.
 
-## Technical Skills
-
-`JavaScript` `TypeScript` `CSS` `React` `Next.js` `Vue` `Nuxt.js` `Angular` `Redux Toolkit` `Apollo Client` `SCSS` `TradingView Charts` `D3.js` `ThirdWeb` `Styled components` `MaterialUI` `RadixUI` `Bootstrap` `Node.js` `Vite` `Webpack` `PostCSS` `Docker` `Python` `Jest` `Vitest`
+:[alt](./templates/tech-skills.md)
 
 ## Experience
 
@@ -21,12 +19,14 @@
 
   **Stack**: React, TypeScript, Apollo Client (GraphQL), RadixUI, Trading View Charts, ThirdWeb/Wagmi, FSD
 
-  - Implemented a killer feature: a gaming price chart for cryptocurrencies with real-time updates and high FPS. Documented the code and screen recordings to help the team understand the magic happening there. [Demo ▶️](https://youtu.be/4XyXVeOLq8Q)(https://bit.ly/cv-demo-1)
-  - Developed core features: 3 out of 5 gaming modes, while maintaining and enhancing all 5
-  - Created a authentication flow: OAuth, Web3, Referral codes and NFTs.
-  - Defined a flexible system design (FSD) and the technical stack for the application
-  - Ensured the consistency of the design system despite changes in the design team, pivots, and transition to a mobile audience
-  - Increase team's DX by implementing AI tooling, unit testing, linting, code formatting and utilizing Telegram bots for easy PR reviews and task assignments.
+  - **Developed key features**: 
+    - 3 gaming modes, while maintaining and enhancing all 5
+    - Fast and seamless realtime price chart [Demo ▶️](https://youtu.be/4XyXVeOLq8Q)(https://bit.ly/cv-demo-1)
+    - Complex authentication flow: OAuth, Web3, Referral codes and login by NFTs
+  - Created documentation and screen recordings to enhance team understanding of the code
+  - Designed a flexible architecture (FSD) and selected the technical stack for the application
+  - Ensured the consistency of the design system despite change of the design team, project pivot, and transition to a mobile audience
+  - Increase team's DevEx by implementing AI tooling, unit testing, linting, formatting and utilizing bots for easy PR reviews and task assignments
 
 - ### Frontend Developer @ Vilantis.ai *8 mos (Apr'22 — Dec'22)*
 
@@ -37,13 +37,14 @@
   **Stack**: Nuxt.js, Next.js, React, Vue, Charts.js, GraphQL
 
   - Developed complex booking forms for consultations and treatment appointments
-  - Implemented strong typing through JSDoc and VSCode during a limited transition to TypeScript, resulting in a reduction of bugs by at least 15%
-  - Accelerated development speed for the new backend API by implementing auto-generation of types, streamlining the integration process.
-  - Upgraded an outdated project (JS/Vue2) for compatibility and maintainability
+  - Accelerated development and maintainbility:
+    - Implemented strict typing via `JSDoc` without transitioning to `TS` to reduce amount of new bugs
+    - Simplified the integration of a new API by implementing auto-generation of types from the backend
+    - Updated the legacy project (Nuxt2/JS) for better compatibility with libraries and documentation
 
 - ### Frontend Developer @ 12 Storeez *1 yr 5 mos (Aug'21 — Jan'22)*
 
-  *Closing brand with online store | Remote, full-time*
+  *Clothing brand with online store | Remote, full-time*
 
   **Project**: internal logistics service for managing order delivery across multiple countries
 
@@ -52,7 +53,7 @@
   - Developed a frontend for the internal logistics service from scratch
   - Conducted team retrospectives → made it easier to prevent burnout and acknowledge improvements
   - Improved the accuracy and speed of the team's poker planning (15 minutes instead of 30+)
-  - Organized and conducted product update demos with stakeholders, which clarified requirements prior to release
+  - Organized product demos with stakeholders, which clarified requirements prior to release
   - Curated and updated the backlog for feature prioritization
 
 - ### Frontend Developer @ Semrush *1 yr (Aug'19 — Jul'20)*
@@ -68,7 +69,7 @@
   <!-- - Contributed to the OSS library  [bkrem/react-d3-tree](https://bkrem.github.io/react-d3-tree/) -->
   <!-- - Implemented code review with collective code ownership -->
 
-- ### Markup Developer @ Noveo *1 yr 4mos (Aug'17 — Dec'18)*
+- ### Markup Developer @ Noveo *1 yr 4 mos (Aug'17 — Dec'18)*
 
   *Outsource company | Office, full-time*
 
@@ -90,7 +91,6 @@
   <!-- - **Stack**: Firebase, Google Cloud Platform, React, Redux Toolkit, PWA, GH Actions -->
 - [**Marathons TG bot**](http://bit.ly/hammers-of-time)(bit.ly/hammers-of-time): Bot for collective learning marathons — [Github](https://github.com/m0rtyn/marathons-bot)
   <!-- - **Stack**: Node.js, Telegraf.js, Next.js, Google Cloud Platform, Google APIs -->
-- **Markdown to CV generator**: the way to get this CV from plain markdown — [Github](https://github.com/m0rtyn/cv-to-md-generator)
-
+- **Markdown to CV generator**: CLI-tool to get CV from markdown — [Github](https://github.com/m0rtyn/cv-to-md-generator)
 
 :[alt](./templates/links.md)
