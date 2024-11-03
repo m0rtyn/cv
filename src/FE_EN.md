@@ -48,7 +48,7 @@
 
   **Project**: internal logistics service for managing order delivery across multiple countries
 
-  **Stack**: Angular (13), Nx, Ngrx, RxJs, gRPC, Material UI
+  **Stack**: Angular (13), Nx, Ngrx, RxJs, Node.js, gRPC, MaterialUI
 
   - Developed a frontend for the internal logistics service from scratch
   - Conducted team retrospectives → made it easier to prevent burnout and acknowledge improvements

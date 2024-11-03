@@ -21,3 +21,10 @@ li > ul {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+img[alt="small-meme"] {
+  width: 25px;
+  height: 25px;
+  border-radius: 0.6rem;
+  vertical-align: bottom;
+}
