@@ -23,18 +23,19 @@ li > ul {
 }
 
 img[alt="small-meme"] {
-  width: 3rem;
-  height: 3rem;
+  width: 2.8rem;
+  height: 2.8rem;
   border-radius: 0.6rem;
 }
 
-blockquote {
+blockquote:first-of-type {
   position: relative;
 
   & img {
     position: absolute;
     left: 1rem;
-    filter: grayscale(0.6) contrast(2);
+    filter: grayscale(1) contrast(2); 
+    cursor: help;
   }
 
   &>p {
