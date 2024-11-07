@@ -5,7 +5,8 @@
 | **Experience**:  8 years | **Language**:  RU / ENG (B2) | **Location**: Novi Sad S(Serbia) |
 | **Email**: [zogacc@gmail.com][email] | [**Telegram**.me/m0rtyn][telega] | [**LinkedIn**.com/in/m0rtyn][li] |
 
-> 👋 Hey there! I’m a seasoned Frontend Developer specializing in `React` and `TypeScript` with automation experience in `Node.js`. I excel in agile methodologies and fostering team collaboration.
+> ![small-meme](https://emojiisland.com/cdn/shop/products/Waving_Hand_Sign_Emoji_Icon_ios10_grande.png?v=1571606113)
+> Hey there! I’m a seasoned Frontend Developer specializing in `React` and `TypeScript` with automation experience in `Node.js`. I excel in agile methodologies and fostering team collaboration.
 
 :[alt](./templates/tech-skills.md)
 
@@ -24,7 +25,7 @@
     - Fast and seamless realtime price chart [Demo ▶️](https://youtu.be/4XyXVeOLq8Q)(https://bit.ly/cv-demo-1)
     - Complex authentication flow: OAuth, Web3, Referral codes and login by NFTs
   - Created documentation and screen recordings to enhance team understanding of the code
-  - Designed a flexible architecture (FSD) and selected the technical stack for the application
+  - Designed a flexible architecture (FSD-like) and selected the technical stack for the application
   - Ensured the consistency of the design system despite change of the design team, project pivot, and transition to a mobile audience
   - Increase team's DevEx by implementing AI tooling, unit testing, linting, formatting and utilizing bots for easy PR reviews and task assignments
 
