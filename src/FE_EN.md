@@ -43,7 +43,7 @@
     - Simplified the integration of a new API by implementing auto-generation of types from the backend
     - Updated the legacy project (Nuxt2/JS) for better compatibility with libraries and documentation
 
-- ### Frontend Developer @ 12 Storeez *1 yr 5 mos (Aug'21 — Jan'22)*
+- ### Frontend Developer @ 12 Storeez *1 yr 5 mos (Aug'20 — Jan'22)*
 
   *Clothing brand with online store | Remote, full-time*
 
