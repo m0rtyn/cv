@@ -34,9 +34,8 @@ li > ul {
 }
 
 img[alt="small-meme"] {
-  width: 2.8rem;
-  height: 2.8rem;
-  border-radius: 0.6rem;
+  width: 2.3rem;
+  height: 2.3rem;
 }
 
 blockquote {
@@ -48,13 +47,13 @@ blockquote:first-of-type {
   & img {
     position: absolute;
     top: 1rem;
-    left: 1rem;
+    left: 0.75rem;
     filter: grayscale(0.9) contrast(2) brightness(0.5); 
     cursor: help;
   }
 
   &>p {
-    padding-left: 4em;
+    padding-left: 3rem;
   }
 }
 

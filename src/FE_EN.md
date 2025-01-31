@@ -8,7 +8,9 @@
 - [![LinkedIn](../src/assets/linkedin.svg) linkedin.com/in/m0rtyn][li]
 
 > ![small-meme](https://emojiisland.com/cdn/shop/products/Waving_Hand_Sign_Emoji_Icon_ios10_grande.png?v=1571606113)
-> Hey there! I’m a seasoned Frontend Developer specializing in `React` and `TypeScript` with automation experience in `Node.js`. I excel in agile methodologies and fostering team collaboration.
+> Hey there! I’m a seasoned Frontend Developer specializing in `React` and `TypeScript` with automation experience in `Node.js`. 
+> 
+> I excel in agile methodologies and fostering team collaboration.
 
 :[alt](./templates/tech-skills.md)
 
