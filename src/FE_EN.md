@@ -1,9 +1,11 @@
 # Vladimir Martynenko | Frontend Developer
 
-|                      |                                  |                      |  
-| -------------------- | -------------------------------- | -------------------- |  
-| **Experience**:  8 years | **Language**:  RU / ENG (B2) | **Location**: Novi Sad S(Serbia) |
-| **Email**: [zogacc@gmail.com][email] | [**Telegram**.me/m0rtyn][telega] | [**LinkedIn**.com/in/m0rtyn][li] |
+- ![Experience](../src/assets/experience.svg "Experience") 8 years
+- ![Language](../src/assets/language.svg "Language") RU / ENG (B1)
+- ![Location](../src/assets/location.svg "Location") Novi Sad (Serbia)
+- [![Email](../src/assets/email.svg) zogacc@gmail.com][email]
+- [![Telegram](../src/assets/telegram.svg) telegram.me/m0rtyn][telega]
+- [![LinkedIn](../src/assets/linkedin.svg) linkedin.com/in/m0rtyn][li]
 
 > ![small-meme](https://emojiisland.com/cdn/shop/products/Waving_Hand_Sign_Emoji_Icon_ios10_grande.png?v=1571606113)
 > Hey there! I’m a seasoned Frontend Developer specializing in `React` and `TypeScript` with automation experience in `Node.js`. I excel in agile methodologies and fostering team collaboration.
@@ -12,7 +14,7 @@
 
 ## Experience
 
-- ### Lead Frontend Developer @ Xyro *1 yr 9 mos (Jan'23 — Sep'24)*
+- ### Lead Frontend Developer @ Xyro *1 yr 11 mos (Jan'23 — Nov'24)*
 
   *Gamified crypto-trading platform #startup #web3 | Remote, full-time*
 

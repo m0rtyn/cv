@@ -1,3 +1,14 @@
+body {
+  --color-gray: hsl(0, 0%, 90%);
+  --c-gray: var(--color-gray);
+  --c-light: color-mix(in hsl, var(--c-gray), white);
+  --c-dark: color-mix(in hsl, var(--c-gray), black);
+
+  /* width of A4 paper  */
+  max-width: 21cm;
+  margin: 0 auto;
+}
+
 #technical-skills + p {
   display: flex;
   flex-wrap: wrap;
@@ -28,17 +39,77 @@ img[alt="small-meme"] {
   border-radius: 0.6rem;
 }
 
+blockquote {
+  background-color: var(--c-light);
+}
 blockquote:first-of-type {
   position: relative;
 
   & img {
     position: absolute;
+    top: 1rem;
     left: 1rem;
-    filter: grayscale(1) contrast(2); 
+    filter: grayscale(0.9) contrast(2) brightness(0.5); 
     cursor: help;
   }
 
   &>p {
     padding-left: 4em;
   }
+}
+
+ul:has(li>img[alt]) {
+  list-style-type: none;
+  /* display: grid; */
+  /* grid-template-columns: 1fr 1fr */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  padding: 0;
+}
+
+ul:has(li>img[alt]) > li {
+  flex: 1 1 30%;
+  padding: 0.5rem;
+  background-color: var(--c-gray);
+  border-radius: 8px;
+
+  &:has(img[alt]):not(:has(a)),
+  & > a:has(img[alt]) {
+    gap: 0.5em;
+    list-style-type: none;
+    display: flex;
+    /* width: fit-content; */
+    justify-content: start;
+    row-gap: 2rem;
+    /* min-width: 30%; */
+    /* width: 1.5rem;
+    height: 1.5rem; */
+    /* padding: 0.5em; */
+    align-items: center;
+
+    /* &:has(img[alt]):before {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+    } */
+
+    img {
+      background-color: white;
+      border-radius: 50%;
+      padding: 0.15rem;
+      box-sizing: border-box;
+      object-fit: contain;
+      width: 1.5rem;
+
+      /* hide alt text */
+      &::before {
+        display: none;
+      }
+    }
+  }
+}
+
+code {
+  background-color: var(--c-gray);
 }
