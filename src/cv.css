@@ -8,19 +8,23 @@ body {
   max-width: 21cm;
   margin: 0 auto;
 }
-
-#technical-skills + p {
+#technical-skills + ul {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5em;
-
-  & > code {
-    /* font-size: 1.2em; */
-    padding: 0.25em 0.5em;
+  gap: 0.6em;
+  padding: 0;
+  
+  & > li {
+    list-style-type: none;
+    
+    & > code {
+      /* font-size: 1.2em; */
+      padding: 0.25em 0.5em;
+    }
   }
 }
 
-li > ul>li  {
+li > ul > li  {
   list-style-type: disc;
 
   & li {
