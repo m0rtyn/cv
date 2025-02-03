@@ -42,7 +42,7 @@
   **Stack**: Nuxt.js, Next.js, React, Vue, Charts.js, GraphQL
 
   - Developed complex booking forms for consultations and treatment appointments
-  - Accelerated development and maintainbility:
+  - Accelerated development and maintainability:
     - Implemented strict typing via `JSDoc` without transitioning to `TS` to reduce amount of new bugs
     - Simplified the integration of a new API by implementing auto-generation of types from the backend
     - Updated the legacy project (Nuxt2/JS) for better compatibility with libraries and documentation

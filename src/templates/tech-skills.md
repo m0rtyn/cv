@@ -22,6 +22,7 @@
 - `MaterialUI`
 - `RadixUI`
 - `AntD`
+- `Tailwind`
 - `StyledCоmps`
 - `D3js`
 - `ApolloClient`
