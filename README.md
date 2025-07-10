@@ -1,4 +1,4 @@
 # cv
 
-- [Frontend Dev](./FE.pdf)
-- [Frontend Dev](./TL.pdf)
+- [Frontend Dev (RU)](./FE.pdf)
+- [Frontend Dev (EN)](./FE_EN.pdf)
